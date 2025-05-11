@@ -33,77 +33,31 @@ java --version
 
 ## How to run the code
 
-### 1. Windows (PowerShell)
-
-PowerShell does not automatically look in the current directory for `.bat` scripts. Prefix with `.\`:
-
-1. In your project root, run:
-
-   ```powershell
-   # Run the program
-   .\gradlew.bat run
-
-   # Run all test
-   .\gradlew.bat test
-
-   # Compile only no run/test
-   .\gradlew.bat assemble
-   ```
-2. To target a single test:
-
-   ```powershell
-   .\gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
-   ```
-
-### 2. Windows (Command Prompt)
-
-1. In your project root, run:
-
-   ```cmd
-   # Run the program
-   gradlew.bat run
-
-   # Run all test
-   gradlew.bat test
-
-   # Compile only no run/test
-   gradlew.bat assemble
-   ```
-2. To target a single test:
-
-   ```cmd
-   gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
-   ```
-   
----
-
-### 3. Linux / macOS (bash, zsh, etc.)
-
-1. **Make the wrapper executable** (one-time):
+> If on Linux **Make the wrapper executable** (one-time):
 
    ```bash
    chmod +x gradlew
    ```
 
-2. **Compile & run the Sudoku.java**
+1. **Compile & run the Sudoku.java**
 
    ```bash
    ./gradlew run
    ```
 
-3. **Run all tests**
+2. **Run all tests**
 
    ```bash
    ./gradlew test
    ```
 
-4. **Compile only**
+3. **Compile only**
 
    ```bash
    ./gradlew assemble
    ```
 
-5. **Run a single test class**
+4. **Run a single test class**
 
    ```bash
    ./gradlew test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
