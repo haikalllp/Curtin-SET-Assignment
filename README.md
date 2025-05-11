@@ -1,5 +1,5 @@
 # SET Assignment - Sudoku Algorithm
-Forked from [TheAlgorithms/Java](]https://github.com/TheAlgorithms/Java)
+Forked from [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 ## Setup JDK 17 (Windows)
 
