@@ -11,10 +11,12 @@
             "id": "594b67bd0c5585fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CFG IsSafe().md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CFG IsSafe()"
             }
           }
         ]
@@ -181,7 +183,7 @@
   "active": "e0c91e1eaaddc5b9",
   "lastOpenFiles": [
     "docs/Assignment-SET.pdf",
-    "Excalidraw/PrimePathCoverage.md",
+    "Excalidraw/CFG IsSafe().md",
     "README.md",
     "docs/Report.md",
     "Excalidraw/Drawing 2025-05-11 21.16.48.excalidraw.md",
