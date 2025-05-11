@@ -16,7 +16,9 @@ To find path:
 ```cmd
 where java
 ```
-1. Check if the `JAVA_HOME` variable is set correctly by running the following command in the command prompt:
+
+3. Check if the `JAVA_HOME` variable is set correctly by running the following command in the command prompt:
+
 > Note: You may need to restart computer for it to take effect.
 
 ```cmd
