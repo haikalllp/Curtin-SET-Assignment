@@ -149,7 +149,7 @@ Most modern Java IDEs (IntelliJ IDEA, Eclipse, VS Code) can import a Gradle proj
 ├── docs # Documentation files
 │   └── Assignment-SET.pdf
 ├── gradle # Gradle wrapper files
-├── obsidian # All of our obsidian files
+├── .obsidian # All of obsidian configuration files
 ├── src
 │   ├── main
 │   │   └── java
