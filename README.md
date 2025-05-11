@@ -150,6 +150,7 @@ Most modern Java IDEs (IntelliJ IDEA, Eclipse, VS Code) can import a Gradle proj
 │   └── Assignment-SET.pdf
 ├── gradle # Gradle wrapper files
 ├── .obsidian # All of obsidian configuration files
+├── Excalidraw # All of our graphs
 ├── src
 │   ├── main
 │   │   └── java
