@@ -36,7 +36,6 @@ public static boolean isSafe(int[][] board, int row, int col, int num) {
 }
 ```
 
-
 ```java title:"solveSudoku()"
 // B1 ▶ Entry
 public static boolean solveSudoku(int[][] board, int n) {
@@ -77,4 +76,3 @@ public static boolean solveSudoku(int[][] board, int n) {
 }
 
 ```
-
