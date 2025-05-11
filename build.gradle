@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+java {
+    toolchain {
+        // ensures Gradle compiles & runs with Java 17
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+group = 'com.thealgorithms'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.2'
+}
+
+application {
+    // the CLI entry point the algorithm we using for this assignment is Sudoku.java
+    mainClass.set('com.thealgorithms.puzzlesandgames.Sudoku')
+}
+
+test {
+    useJUnitPlatform()
+}
