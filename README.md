@@ -33,53 +33,20 @@ java --version
 
 ## How to run the code
 
-### 1. Windows (Command Prompt)
-
-1. Open a **Command Prompt** and `cd` into the project root (where `gradlew.bat` resides).
-
-2. **Compile & run the Sudoku solver**
-
-```cmd
-   gradlew.bat run
-```
-
-This will compile the code (if needed) and launch the `com.thealgorithms.puzzlesandgames.Sudoku` main class, printing the solved puzzle to the console.
-
-3. **Run all tests**
-
-   ```cmd
-   gradlew.bat test
-   ```
-
-   Executes JUnit 5 tests for `Sudoku`.
-
-4. **Compile only (no run/tests)**
-
-   ```cmd
-   gradlew.bat assemble
-   ```
-
-   Produces compiled classes and JAR under `build/` without executing them.
-
-5. **Run a single test class**
-
-   ```cmd
-   gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
-   ```
-
-   Replace the FQCN in quotes to target any other test.
-
----
-
-### 2. Windows (PowerShell)
+### 1. Windows (PowerShell)
 
 PowerShell does not automatically look in the current directory for `.bat` scripts. Prefix with `.\`:
 
 1. In your project root, run:
 
    ```powershell
+   # Run the program
    .\gradlew.bat run
+
+   # Run all test
    .\gradlew.bat test
+
+   # Compile only no run/test
    .\gradlew.bat assemble
    ```
 2. To target a single test:
@@ -88,6 +55,26 @@ PowerShell does not automatically look in the current directory for `.bat` scrip
    .\gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.WordBoggleTest"
    ```
 
+### 2. Windows (Command Prompt)
+
+1. In your project root, run:
+
+   ```cmd
+   # Run the program
+   gradlew.bat run
+
+   # Run all test
+   gradlew.bat test
+
+   # Compile only no run/test
+   gradlew.bat assemble
+   ```
+2. To target a single test:
+
+   ```cmd
+   gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.WordBoggleTest"
+   ```
+   
 ---
 
 ### 3. Linux / macOS (bash, zsh, etc.)
@@ -98,7 +85,7 @@ PowerShell does not automatically look in the current directory for `.bat` scrip
    chmod +x gradlew
    ```
 
-2. **Compile & run the Sudoku solver**
+2. **Compile & run the Sudoku.java**
 
    ```bash
    ./gradlew run
