@@ -124,17 +124,6 @@ PowerShell does not automatically look in the current directory for `.bat` scrip
 
 ---
 
-## Importing into an IDE
-
-Most modern Java IDEs (IntelliJ IDEA, Eclipse, VS Code) can import a Gradle project:
-
-1. **Open** your IDE’s “Import Project” or “Open” dialog.
-2. **Select** the root folder of this repo.
-3. **Choose** “Import as Gradle project” (or equivalent).
-4. The IDE will download dependencies, set up the Java 17 toolchain, and configure run/test configurations automatically.
-
----
-
 ## Cleaning up
 
 * To remove build artifacts:
