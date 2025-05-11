@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dc56fda5174d785a",
+        "id": "55ac1073daddf130",
         "type": "tabs",
         "children": [
           {
-            "id": "7b704b247b8f43b6",
+            "id": "594b67bd0c5585fc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PrimePathCoverage.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PrimePathCoverage"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,12 +178,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b704b247b8f43b6",
+  "active": "e0c91e1eaaddc5b9",
   "lastOpenFiles": [
     "docs/Assignment-SET.pdf",
-    "docs/Report.md",
     "Excalidraw/PrimePathCoverage.md",
     "README.md",
+    "docs/Report.md",
     "Excalidraw/Drawing 2025-05-11 21.16.48.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-05-11 21.13.59.excalidraw.md"
