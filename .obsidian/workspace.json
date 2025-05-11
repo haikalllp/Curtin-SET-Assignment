@@ -31,7 +31,8 @@
               "title": "Assignment-SET"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e4f266ba60eda6d6",
@@ -228,10 +229,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1eec8f4c4093a8bd",
+  "active": "7818ce08361f4e0f",
   "lastOpenFiles": [
-    "docs/Source Code.md",
     "Excalidraw/CFG solveSudoku().md",
+    "docs/Source Code.md",
     "Excalidraw/CFG IsSafe().md",
     "docs/Assignment-SET.pdf",
     "docs/reference/Worksheet 3 Answers.md",
