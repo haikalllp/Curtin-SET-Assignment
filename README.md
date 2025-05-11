@@ -52,7 +52,7 @@ PowerShell does not automatically look in the current directory for `.bat` scrip
 2. To target a single test:
 
    ```powershell
-   .\gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.WordBoggleTest"
+   .\gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
    ```
 
 ### 2. Windows (Command Prompt)
@@ -72,7 +72,7 @@ PowerShell does not automatically look in the current directory for `.bat` scrip
 2. To target a single test:
 
    ```cmd
-   gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.WordBoggleTest"
+   gradlew.bat test --tests "com.thealgorithms.puzzlesandgames.SudokuTest"
    ```
    
 ---
