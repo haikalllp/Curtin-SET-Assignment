@@ -11,11 +11,12 @@ Forked from [TheAlgorithms/Java](]https://github.com/TheAlgorithms/Java)
 setx JAVA_HOME "C:\Program Files\Eclipse Adoptium\jdk-17.0.15.6-hotspot"
 ```
 > Note : The path may vary based on your installation directory.
-> To find path:
+
+To find path:
 ```cmd
 where java
 ```
-3. Check if the `JAVA_HOME` variable is set correctly by running the following command in the command prompt:
+1. Check if the `JAVA_HOME` variable is set correctly by running the following command in the command prompt:
 > Note: You may need to restart computer for it to take effect.
 
 ```cmd
@@ -139,3 +140,35 @@ Most modern Java IDEs (IntelliJ IDEA, Eclipse, VS Code) can import a Gradle proj
   ```bash
   ./gradlew clean
   ```
+
+## Project Structure
+
+```
+├── docs # Documentation files
+│   └── Assignment-SET.pdf
+├── gradle # Gradle wrapper files
+├── obsidian # All of our obsidian files
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com
+│   │           └── thealgorithms
+│   │               └── puzzlesandgames
+│   │                   └── Sudoku.java # The methods we use
+│   └── test
+│       └── java
+│           └── com
+│               └── thealgorithms
+│                   └── puzzlesandgames
+│                       └── SudokuTest.java # The corresponding test cases
+├── .gitignore
+├── build.gradle
+├── gradlew
+├── gradlew.bat
+└── README.md # Readme file
+```
+
+## Group members:
+- **Adni Abdat** - 21545472
+- **Ihsan Hasny** - 21483611
+- **Haikal Putrayudha** - 21604483
