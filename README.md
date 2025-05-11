@@ -33,7 +33,7 @@ java --version
 
 ## How to run the code
 
-> If on Linux **Make the wrapper executable** (one-time):
+> NOTE: If on **Linux** **Make the wrapper executable** (one-time):
 
    ```bash
    chmod +x gradlew
