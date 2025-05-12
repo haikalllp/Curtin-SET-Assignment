@@ -1,4 +1,4 @@
-## Sudoku.java:
+  ## Sudoku.java:
 
 ```java title:"isSafe()"
 // A1 ▶ Entry
