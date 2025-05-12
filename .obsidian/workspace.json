@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1eec8f4c4093a8bd",
+            "id": "7818ce08361f4e0f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CFG solveSudoku() Def-Use.md"
+                "file": "Excalidraw/CFG solveSudoku().md"
               },
               "icon": "excalidraw-icon",
-              "title": "CFG solveSudoku() Def-Use"
-            }
-          },
-          {
-            "id": "7818ce08361f4e0f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/Assignment-SET.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment-SET"
+              "title": "CFG solveSudoku()"
             }
           }
         ]
@@ -63,7 +51,8 @@
               "title": "Source Code"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,16 +214,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1eec8f4c4093a8bd",
+  "active": "7818ce08361f4e0f",
   "lastOpenFiles": [
-    "Excalidraw/CFG solveSudoku().md",
     "Excalidraw/CFG solveSudoku() Def-Use.md",
+    "Excalidraw/CFG solveSudoku().md",
+    "docs/Assignment-SET.pdf",
+    "docs/Source Code.md",
     "Excalidraw/CFG IsSafe() Def-Use.md",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "docs/reference/Worksheet 3 Answers.md",
-    "docs/Source Code.md",
     "Excalidraw/CFG IsSafe().md",
-    "docs/Assignment-SET.pdf",
     "docs/reference",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph1.md",
     "docs/reference/worksheet 3 graphs",
