@@ -11,48 +11,15 @@
             "id": "7818ce08361f4e0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/CFG solveSudoku() Def-Use.md"
+                "file": "docs/Assignment-SET.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "CFG solveSudoku() Def-Use"
+              "icon": "lucide-file-text",
+              "title": "Assignment-SET"
             }
           }
         ]
-      },
-      {
-        "id": "e4f266ba60eda6d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "756f61ddf0104efd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Wk3 Question1 graph2"
-            }
-          },
-          {
-            "id": "6feb1e4eb98cceff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Source Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Source Code"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,12 +183,12 @@
   },
   "active": "7818ce08361f4e0f",
   "lastOpenFiles": [
+    "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
+    "docs/Assignment-SET.pdf",
+    "Excalidraw/CFG solveSudoku() Def-Use.md",
     "Excalidraw/CFG IsSafe() Def-Use.md",
     "Excalidraw/CFG solveSudoku().md",
-    "Excalidraw/CFG solveSudoku() Def-Use.md",
-    "docs/Assignment-SET.pdf",
     "docs/Source Code.md",
-    "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "docs/reference/Worksheet 3 Answers.md",
     "Excalidraw/CFG IsSafe().md",
     "docs/reference",
