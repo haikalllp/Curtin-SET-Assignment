@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55ac1073daddf130",
+        "id": "98c6f47c84cdf34e",
         "type": "tabs",
         "children": [
           {
-            "id": "7818ce08361f4e0f",
+            "id": "d6368f800f953077",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/Assignment-SET.pdf"
+                "file": "docs/Source Code.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment-SET"
+              "icon": "lucide-file",
+              "title": "Source Code"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c570309c79ddd2a",
@@ -181,10 +182,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7818ce08361f4e0f",
+  "active": "d6368f800f953077",
   "lastOpenFiles": [
-    "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "docs/Assignment-SET.pdf",
+    "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "Excalidraw/CFG solveSudoku() Def-Use.md",
     "Excalidraw/CFG IsSafe() Def-Use.md",
     "Excalidraw/CFG solveSudoku().md",
