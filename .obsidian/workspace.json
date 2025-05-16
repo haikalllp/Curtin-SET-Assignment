@@ -11,14 +11,12 @@
             "id": "d6368f800f953077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/Source Code.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/CFG IsSafe() Fixed.md"
               },
-              "icon": "lucide-file",
-              "title": "Source Code"
+              "icon": "excalidraw-icon",
+              "title": "CFG IsSafe() Fixed"
             }
           }
         ]
@@ -184,12 +182,13 @@
   },
   "active": "d6368f800f953077",
   "lastOpenFiles": [
+    "docs/Source Code.md",
+    "Excalidraw/CFG IsSafe() Fixed.md",
     "docs/Assignment-SET.pdf",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "Excalidraw/CFG solveSudoku() Def-Use.md",
     "Excalidraw/CFG IsSafe() Def-Use.md",
     "Excalidraw/CFG solveSudoku().md",
-    "docs/Source Code.md",
     "docs/reference/Worksheet 3 Answers.md",
     "Excalidraw/CFG IsSafe().md",
     "docs/reference",
