@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CFG IsSafe() Fixed.md"
+                "file": "Excalidraw/CFG IsSafe.md"
               },
               "icon": "excalidraw-icon",
-              "title": "CFG IsSafe() Fixed"
+              "title": "CFG IsSafe"
             }
           }
         ]
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +179,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6368f800f953077",
+  "active": "e0c91e1eaaddc5b9",
   "lastOpenFiles": [
+    "Excalidraw/CFG solveSudoku() Def-Use.md",
+    "Excalidraw/CFG solveSudoku().md",
+    "Excalidraw/CFG IsSafe Def-Use.md",
+    "Excalidraw/CFG IsSafe.md",
+    "ExcalidrawOld/CFG IsSafe() Def-Use.md",
+    "Excalidraw",
+    "ExcalidrawOld/CFG IsSafe() Fixed.md",
     "docs/Source Code.md",
-    "Excalidraw/CFG IsSafe() Fixed.md",
     "docs/Assignment-SET.pdf",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
-    "Excalidraw/CFG solveSudoku() Def-Use.md",
-    "Excalidraw/CFG IsSafe() Def-Use.md",
-    "Excalidraw/CFG solveSudoku().md",
+    "ExcalidrawOld/CFG solveSudoku() Def-Use.md",
+    "ExcalidrawOld/CFG solveSudoku().md",
     "docs/reference/Worksheet 3 Answers.md",
-    "Excalidraw/CFG IsSafe().md",
+    "ExcalidrawOld/CFG IsSafe().md",
     "docs/reference",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph1.md",
     "docs/reference/worksheet 3 graphs",
@@ -201,7 +205,7 @@
     "README.md",
     "docs/Report.md",
     "Excalidraw/Drawing 2025-05-11 21.16.48.excalidraw.md",
-    "Excalidraw",
+    "ExcalidrawOld",
     "Excalidraw/Drawing 2025-05-11 21.13.59.excalidraw.md"
   ]
 }
