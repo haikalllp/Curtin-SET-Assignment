@@ -49,7 +49,7 @@ public static boolean solveSudoku(int[][] board, int n) {
                 isEmpty = false;
                 break;          // B3 ▶ break inner
             }
-        }
+        }   
         if (!isEmpty) {      // B4 ▶ break outer
             break;
         }

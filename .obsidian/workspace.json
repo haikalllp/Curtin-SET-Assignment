@@ -13,10 +13,43 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CFG IsSafe.md"
+                "file": "Excalidraw/CFG solveSudoku().md"
               },
               "icon": "excalidraw-icon",
-              "title": "CFG IsSafe"
+              "title": "CFG solveSudoku()"
+            }
+          },
+          {
+            "id": "10c1f9b1293794ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CFG solveSudoku() Def-Use.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CFG solveSudoku() Def-Use"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "382d6521a6179972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d67c0544743c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Source Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Source Code"
             }
           }
         ]
@@ -165,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,16 +213,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0c91e1eaaddc5b9",
+  "active": "10c1f9b1293794ea",
   "lastOpenFiles": [
-    "Excalidraw/CFG solveSudoku() Def-Use.md",
     "Excalidraw/CFG solveSudoku().md",
+    "Excalidraw/CFG solveSudoku() Def-Use.md",
     "Excalidraw/CFG IsSafe Def-Use.md",
+    "docs/Source Code.md",
     "Excalidraw/CFG IsSafe.md",
     "ExcalidrawOld/CFG IsSafe() Def-Use.md",
     "Excalidraw",
     "ExcalidrawOld/CFG IsSafe() Fixed.md",
-    "docs/Source Code.md",
     "docs/Assignment-SET.pdf",
     "docs/reference/worksheet 3 graphs/Wk3 Question1 graph2.md",
     "ExcalidrawOld/CFG solveSudoku() Def-Use.md",
