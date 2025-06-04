@@ -158,8 +158,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
