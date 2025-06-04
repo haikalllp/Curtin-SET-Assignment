@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "98c6f47c84cdf34e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6368f800f953077",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CFG solveSudoku().md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "CFG solveSudoku()"
-            }
-          },
-          {
-            "id": "10c1f9b1293794ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CFG solveSudoku() Def-Use.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "CFG solveSudoku() Def-Use"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "382d6521a6179972",
         "type": "tabs",
         "children": [
@@ -189,8 +158,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -213,7 +182,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "10c1f9b1293794ea",
+  "active": "e1d67c0544743c3e",
   "lastOpenFiles": [
     "Excalidraw/CFG solveSudoku().md",
     "Excalidraw/CFG solveSudoku() Def-Use.md",
